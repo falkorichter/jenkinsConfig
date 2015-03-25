@@ -1,0 +1,6 @@
+jobs/*/workspace
+jobs/*/builds
+jobs/*/nextBuildNumber
+jobs/*/lastSuccessful
+jobs/*/lastStable
+jobs/*/scm-polling.log
