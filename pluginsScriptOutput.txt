@@ -1,0 +1,33 @@
+Running plugin enumerator
+
+ant - 1.2
+antisamy-markup-formatter - 1.1
+credentials - 1.22
+cvs - 2.11
+external-monitor-job - 1.4
+git-client - 1.16.1
+git - 2.3.5
+gradle - 1.24
+greenballs - 1.14
+jacoco - 1.0.18
+javadoc - 1.1
+junit - 1.5
+ldap - 1.6
+mailer - 1.11
+matrix-auth - 1.1
+matrix-project - 1.4.1
+maven-plugin - 2.7.1
+pam-auth - 1.1
+scm-api - 0.2
+script-security - 1.13
+ssh-credentials - 1.10
+ssh-slaves - 1.9
+subversion - 1.54
+translation - 1.10
+windows-slaves - 1.0
+hockeyapp - 1.2.0
+port-allocator - 1.8
+android-emulator - 2.13
+analysis-core - 1.71
+
+Total number of plugins: 29
